@@ -23,9 +23,9 @@ fake-factory==0.5.3 \
     --hash=sha256:90f507891ad1073e08cf6908eb51d5e1debc3c5a5d554427e8c3fbf73cdf12ee
 frozendict==0.6 \
     --hash=sha256:168791393c2c642264a6839aac5e7c6a34b3a284aa02b8c950739962f756163c
-Jinja2==2.8 \
-    --hash=sha256:1cc03ef32b64be19e0a5b54578dd790906a34943fe9102cfdae0d4495bd536b4 \
-    --hash=sha256:bc1ff2ff88dbfacefde4ddde471d1417d3b304e8df103a7a9437d47269201bf4
+Jinja2==3.1.3 \
+    --hash=sha256:7d6d50dd97d52cbc355597bd845fabfbac3f551e1f99619e39a35ce8c370b5fa \
+    --hash=sha256:ac8bd6544d4bb2c9792bf3a159e80bba8fda7f07e81bc3aed565432d5925ba90
 MarkupSafe==0.23 \
     --hash=sha256:a4ec1aff59b95a14b45eb2e23761a0179e98319da5a7eb76b56ea8cdc7b871c3
 mohawk==0.3.2.1 \
